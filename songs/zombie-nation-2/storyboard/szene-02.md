@@ -251,6 +251,137 @@ Kamera zieht langsam zurück und erhöht sich minimal. Die komplette Band spielt
 
 ---
 
+# ALTERNATIVE CUTS — DER PUPPENSPIELER / KONTROLLE DER ZOMBIE NATION
+
+Die folgenden Shots sind **optionale Inserts innerhalb der bestehenden 01:34.10–01:54.00**, keine zusätzlichen Zeitsegmente. Sie können anstelle oder zwischen den vorhandenen Band-/Crowd-Cuts eingesetzt werden. Ihre Aufgabe ist, den bislang nur angedeuteten Puppenspieler erstmals als bewussten Gegenspieler sichtbar zu machen.
+
+## Puppenspieler – Character Lock
+
+**Referenz:** das bereitgestellte Puppenspieler-Referenzbild + die entsprechende Character Bible, sofern vorhanden.
+
+Der Puppenspieler ist kein gewöhnlicher Carnival-Performer. Er ist die verborgene kontrollierende Instanz hinter der mechanischen Zombie Nation. Seine Erscheinung soll sich deutlich von der Band und den normalen Carnival-Figuren unterscheiden.
+
+Er ist ein **erwachsener, großer, schlanker bis drahtiger Mann mit kantigem, kontrolliertem Gesicht**, blasser, fast wachsartiger Haut und einem kalten, feindseligen Blick. Seine Gesichtszüge wirken hart und erschöpft, mit tief liegenden Augen, ausgeprägten Wangenknochen und einem angespannten Mund. Das kurze, **hellblonde bis aschblonde Haar** ist streng und leicht unordentlich nach hinten bzw. zur Seite gelegt. Er trägt ein **langes, schwarzes, schwer wirkendes viktorianisch inspiriertes Mantel-Ensemble**, darunter dunkle Weste, schwarzes Hemd und schmale Krawatte bzw. hoher Kragen. Das Material wirkt alt, trocken, teuer genug für Autorität, aber abgenutzt und unheimlich. Keine moderne Businesskleidung, keine Fantasy-Rüstung.
+
+Seine Hände sind besonders wichtig: **lange, schmale Finger, knochige Gelenke, gepflegte aber unnatürlich kontrollierte Hände**. Aus seinen Händen laufen zahlreiche extrem dünne, dunkle Marionettenfäden in die Tiefe der Straße. Die Fäden sollen fein und glaubwürdig sein, nicht dicke Fantasy-Seile. Er zieht nicht hektisch; seine Bewegungen sind präzise, ruhig und dominant – ein kleiner Fingerimpuls kann eine ganze Gruppe von Bewohnern synchronisieren.
+
+Der Puppenspieler **hasst Phoenix Horizon**. Sein Hass ist nicht cartoonhaft und nicht laut. Er betrachtet die Band als Bedrohung für seine Kontrolle. Während Leo singt und die Band die Menschen zum Nachdenken bringt, reagiert er mit konzentrierter Verachtung, kalter Wut und dem Bedürfnis, die Masse wieder unter seine Kontrolle zu bringen. Er soll wirken, als würde er die Musik persönlich als Angriff empfinden.
+
+### Puppenspieler – visuelle Regeln
+
+- Immer dieselbe erwachsene männliche Person und dasselbe Gesicht.
+- Blass-kaltes Gesicht, hellblondes/aschblondes Haar, schwarzes langes Mantel-Ensemble.
+- Lange schmale Hände und sehr feine Marionettenfäden als wiederkehrendes visuelles Motiv.
+- Keine Clownmaske, keine Horror-Maske, kein Fantasy-Monster.
+- Keine übertriebene Magie; die Kontrolle soll zunächst wie eine physische, rätselhafte Inszenierung wirken.
+- Seine Bewegungen sind langsam, präzise und kontrolliert.
+- Sein Hass auf die Band wird über Blicke, Kieferanspannung und gezielte Fadenbewegungen vermittelt.
+- Er steht vorzugsweise erhöht, im Hintergrund, auf einem Dach, Balkon, verlassenen oberen Stockwerk oder hinter einer dunklen Arkade.
+- Die Band darf in seinen Shots klein, aber erkennbar im Hintergrund sichtbar sein, damit klar ist, worauf sich sein Hass richtet.
+
+---
+
+## ALT CUT A — ca. 01:35.40–01:36.70 — PUPPENSPIELER / ERSTER REVEAL
+
+### Funktion
+
+Insert direkt nach dem ersten Band-Ausbruch oder als kurzer Zwischenschnitt innerhalb von Cut 01. Der Zuschauer erkennt erstmals, dass die mechanischen Bewegungen der Bewohner nicht zufällig sind.
+
+### Handlung
+
+Die Kamera befindet sich hoch oben hinter dem Puppenspieler. Unter ihm liegt die enge Straße. Phoenix Horizon ist weit unten als schwarze und crimsonfarbene Bewegung erkennbar. Der Puppenspieler steht im Schatten eines verwitterten Dachaufbaus und hält beide Arme leicht geöffnet. Dutzende hauchdünne Fäden laufen von seinen Fingern hinunter zu einzelnen grauen Bewohnern.
+
+Er beobachtet die Band. Sein Gesicht zeigt sofortige Abneigung. Als Leo den ersten Hook singt, zieht der Puppenspieler zwei Finger minimal zusammen. Eine Gruppe von Bewohnern korrigiert gleichzeitig ihre Laufrichtung.
+
+### Image Prompt
+
+**Use the supplied Puppeteer reference image as a strict character-identity anchor and preserve the exact same face, hair, proportions, clothing and physical presence throughout all Puppeteer shots. Photorealistic cinematic 16:9 high-angle over-the-shoulder shot from behind the Puppeteer standing on a weathered European rooftop above the established Zombie Nation Dark Carnival street. The Puppeteer is a tall, lean, adult man with a pale almost waxen complexion, angular masculine face, deep-set cold eyes, pronounced cheekbones, tight controlled mouth, short ash-blond/light-blond hair combed naturally back and to the side, and long narrow hands with prominent knuckles and precise finger movements. He wears the same long heavy black Victorian-inspired coat, dark waistcoat, black shirt and narrow dark neckwear established in the reference, worn but authoritative, never fantasy armor and never modern businesswear. From his long fingers descend dozens of extremely thin dark marionette threads into the crowded street below. The threads are subtle and physically plausible, catching only occasional warm carnival light. Far below, the complete Phoenix Horizon band is visible as a small but unmistakable four-piece unit: Leo singing into his microphone at the center, Gloria with her dark electric bass, Luke with his guitar and long blond hair, Pete at the drums. The Puppeteer watches the band with concentrated hatred and cold contempt, clearly recognizing them as a threat to his control. At the exact moment Leo begins the chorus, the Puppeteer makes a tiny controlled finger movement and several grey citizens below abruptly correct their direction in near-perfect synchronization. Narrow grey European street, wet reflective asphalt, fog, smoke, black-and-crimson carnival, practical firelight, cold overcast ambient light, deep shadows, photorealistic dystopian rock music video, 50mm anamorphic lens, atmospheric depth, subtle film grain, no overt supernatural spectacle, no generic villain styling.**
+
+### Animation
+
+Langsamer Push von hinten auf Schulter und Hände des Puppenspielers. Seine Finger bewegen sich kaum sichtbar. Unten reagieren mehrere Bewohner gleichzeitig. Beim ersten deutlichen Blick auf Leo verhärtet sich sein Kiefer. Schnitt zurück zur Band.
+
+---
+
+## ALT CUT B — ca. 01:41.10–01:42.10 — PUPPENSPIELER / „THEY DON’T THINK“
+
+### Funktion
+
+Alternativ-Insert vor bzw. innerhalb des Übergangs von Cut 03 zu Cut 04. Der Puppenspieler wird nun aus größerer Distanz gezeigt und seine Kontrolle wird eindeutiger.
+
+### Handlung
+
+Seitlicher Medium-Wide-Shot des Puppenspielers hinter einer dunklen Arkade. Seine gesamte Silhouette ist sichtbar. Ein Teil der Straße liegt hinter ihm. Die Fäden verlaufen über seine Arme und zwischen den Schatten nach unten. Er zieht einen einzelnen Faden, woraufhin drei Bewohner gleichzeitig stehen bleiben, die Köpfe drehen und anschließend exakt wieder in dieselbe Richtung gehen.
+
+Im Hintergrund, weit entfernt, ist die Band zu sehen. Der Puppenspieler blickt direkt zu ihr. Er hasst nicht die Bewohner – sie sind für ihn nur Material. Seine eigentliche emotionale Reaktion gilt Phoenix Horizon.
+
+### Image Prompt
+
+**Use the supplied Puppeteer reference image as the strict identity anchor. Photorealistic cinematic 16:9 medium-wide side-angle shot of the same established Puppeteer standing beneath a deep stone arcade overlooking the same narrow grey European street. Preserve his exact pale angular face, cold deep-set eyes, short ash-blond/light-blond hair, lean tall body, long narrow hands, black long Victorian-inspired coat, dark waistcoat, black shirt and narrow neckwear exactly as established. His posture is upright and almost unnaturally still, shoulders relaxed, one hand raised at chest height and the other slightly lower. Numerous nearly invisible dark marionette threads run from his fingers into the foggy street. He gently pulls one thread with two fingers. Three ordinary grey citizens in the background immediately stop at the same instant, turn their heads in exactly the same direction, then resume walking in perfect mechanical rhythm. In the far background, Phoenix Horizon is visible performing as the same four established musicians: Leo at the microphone, Gloria on bass, Luke on guitar, Pete at drums. The Puppeteer's eyes remain fixed on the band rather than the citizens. His expression communicates contained hatred, resentment and fear of losing control, never cartoon villain anger. Wet asphalt, cold grey facades, drifting fog, crimson carnival light leaking into the arcade, practical firelight, realistic thread physics, photorealistic cinematic dystopian rock music video, 65mm anamorphic lens, deep atmospheric separation, subtle film grain, grounded dark-carnival realism, no overt supernatural spectacle.**
+
+### Animation
+
+Sehr langsamer seitlicher Kameraschlitten. Ein einzelner Finger zieht einen Faden. Drei Bewohner reagieren synchron. Der Puppenspieler verfolgt die Band mit den Augen. Ein kaum sichtbares, feindseliges Lächeln verschwindet sofort wieder.
+
+---
+
+## ALT CUT C — ca. 01:48.80–01:50.10 — PUPPENSPIELER / GEGEN DIE BAND
+
+### Funktion
+
+Dieser Shot ersetzt einen Teil eines normalen Crowd- oder Performance-Inserts und macht den Konflikt zwischen Puppenspieler und Band deutlich persönlicher.
+
+### Handlung
+
+Extremer Close-up der Hände des Puppenspielers. Ein Faden führt zu einem Bewohner, dessen Schulter und Kopf im Vordergrund unscharf sichtbar sind. Der Puppenspieler hört bzw. beobachtet den Chorus. Im Hintergrund ist Leo zwischen den Bandmitgliedern erkennbar.
+
+Er zieht den Faden nicht brutal, sondern mit kontrollierter Präzision. Der Bewohner dreht sich langsam von der Musik weg. Gleichzeitig blickt der Puppenspieler wütend in Richtung Leo.
+
+### Image Prompt
+
+**Use the supplied Puppeteer reference image as strict identity anchor. Photorealistic cinematic 16:9 extreme close-up of the same Puppeteer's long narrow pale hands and angular face partially visible in deep shadow, preserving exact reference-consistent identity, ash-blond hair, pale skin, cold deep-set eyes and black Victorian-inspired coat. One extremely thin dark marionette thread passes between his fingers and disappears into the blurred shoulder of an ordinary grey citizen in the foreground. His fingers are precise, tense and controlled, showing restrained anger rather than theatrical violence. Through a shallow-focus gap beyond the citizen, Leo and the complete Phoenix Horizon band can be recognized in the same street: Leo singing at the microphone, Gloria playing bass, Luke playing guitar, Pete at the drums. The Puppeteer's eyes are locked toward Leo with unmistakable hatred. He subtly pulls the thread and the citizen's head turns away from the music. The image should communicate that the Puppeteer is actively trying to suppress the effect of the band on the crowd. Cold grey European architecture, wet pavement, crimson reflections, practical firelight, fog, smoke, dark carnival atmosphere, 85mm anamorphic portrait lens, extremely shallow depth of field, realistic skin and hand detail, cinematic halation, photorealistic dystopian rock music video, no overt magic effects, no fantasy glow.**
+
+### Animation
+
+Close-up auf die Finger. Minimaler Zug. Der Bewohner im Vordergrund wendet sich von der Musik ab. Rack-focus auf die Augen des Puppenspielers. Im Hintergrund bleibt Leo sichtbar. Kurzer harter Schnitt auf einen Leo-Lipsync.
+
+---
+
+## ALT CUT D — ca. 01:51.70–01:53.00 — PUPPENSPIELER / VERLUST DER KONTROLLE
+
+### Funktion
+
+Der wichtigste Puppenspieler-Insert kurz vor dem Finale. Er erkennt, dass seine Kontrolle erstmals brüchig wird.
+
+### Handlung
+
+Großer Shot von oben aus einem gegenüberliegenden Gebäude. Der Puppenspieler steht erhöht im Vordergrund, die Fäden laufen in die Straße. Unter ihm performt die Band. Mehrere Bewohner hören auf zu marschieren und beginnen, zur Musik zu schauen. Der Puppenspieler zieht hektischer an mehreren Fäden – aber die Menschen reagieren nicht mehr vollständig.
+
+Sein Hass kippt kurz in echte Panik. Leo singt weiter. Gloria, Luke und Pete spielen weiter. Die Band wird zur Gegenkraft, die seine Kontrolle sichtbar stört.
+
+### Image Prompt
+
+**Use the supplied Puppeteer reference image and all four Phoenix Horizon character reference images as strict identity anchors. Photorealistic cinematic 16:9 dramatic high-angle composition from across the street, showing the same established Puppeteer standing on a stone balcony or elevated architectural ledge in the foreground, with his exact pale angular face, short ash-blond hair, lean tall body, long narrow hands and long black Victorian-inspired coat. Numerous extremely thin marionette threads extend from both hands down into the street. Below and deeper in frame, the complete Phoenix Horizon band performs together in the same established location: Leo centered at the microphone with his exact dark-haired reference-consistent face and worn black layered leather wardrobe; Gloria clearly recognizable with platinum-blonde shoulder-length hair, dark fitted leather and electric bass; Luke clearly recognizable with long light-blond hair, worn black leather and guitar; Pete clearly recognizable with his massive tattooed build, long full beard and rugged dark workwear at the drums. The band remains visually coherent and unmistakably the same four established people. Around them, ordinary grey citizens begin breaking their mechanical formation: several stop walking, turn toward the music and look at the band. The Puppeteer pulls multiple threads with increasing tension, but the citizens no longer respond uniformly. His expression changes from controlled contempt to contained panic and furious hatred. Crimson carnival firelight reflects upward through fog and catches the threads, while the city remains cold grey and desaturated. Wet asphalt, atmospheric smoke, old European facades, dramatic depth, 35mm anamorphic lens, photorealistic cinematic rock music video, subtle film grain, grounded dark-carnival realism, no glowing magic, no fantasy spectacle, no generic characters.**
+
+### Animation
+
+Die Kamera hält zunächst den Puppenspieler ruhig im Vordergrund. Seine Finger ziehen mehrere Fäden gleichzeitig. Unten reagieren die Bewohner nur teilweise. Einige bleiben stehen und schauen zur Band. Leo singt weiter. Der Puppenspieler spannt die Hände sichtbar an. Ein Faden rutscht aus einem Finger. **Harter Schnitt auf Cut 08 und das Band-Finale.**
+
+---
+
+# Puppenspieler-Insert-Logik
+
+Die Alternativ-Cuts bilden bewusst eine kleine Entwicklung innerhalb des Refrains:
+
+1. **Alt Cut A:** Er wird erstmals entdeckt – Kontrolle funktioniert perfekt.
+2. **Alt Cut B:** Seine Kontrolle wird als bewusster Mechanismus sichtbar.
+3. **Alt Cut C:** Er greift aktiv gegen den Einfluss der Band ein und versucht, die Bewohner von Leo wegzudrehen.
+4. **Alt Cut D:** Die Musik der Band beginnt seine Kontrolle zu brechen – Hass wird zu Frustration und Panik.
+
+Dadurch ist der Puppenspieler nicht einfach ein zusätzlicher Bösewicht im Hintergrund. Er wird zum **visuellen Gegenpol zu Leo**: Leo benutzt seine Stimme, um Menschen zum Denken und Fühlen zu bringen; der Puppenspieler benutzt die Fäden, um ihnen genau diese Freiheit zu nehmen.
+
+---
+
 # Lipsync-Übersicht
 
 Für diese Szene sind bewusst **drei separate Leo-Lipsyncs** vorgesehen, damit genügend Material für einen glaubwürdigen Refrain-Schnitt vorhanden ist:
@@ -282,7 +413,7 @@ Die Band ist bewusst über mehrere Cuts verteilt, damit für den späteren Schni
 - **Luke:** Gitarrenbewegung, Freiheit, offene Körperenergie.
 - **Pete:** Drum-Impact, körperlicher Rhythmus und Überlebensenergie.
 
-Dadurch entsteht im Refrain ein klarer visueller Rhythmus: **Leo spricht/singt die Wahrheit → die Band verkörpert die Gegenkraft → die Masse reagiert → die Band wird größer → Leo liefert die emotionale Antwort → gemeinsames Band-/Crowd-Finale.**
+Dadurch entsteht im Refrain ein klarer visueller Rhythmus: **Leo spricht/singt die Wahrheit → die Band verkörpert die Gegenkraft → die Masse reagiert → die Band wird größer → Leo liefert die emotionale Antwort → der Puppenspieler versucht gegenzusteuern → seine Kontrolle beginnt zu brechen → gemeinsames Band-/Crowd-Finale.**
 
 ---
 
@@ -304,3 +435,9 @@ Dadurch entsteht im Refrain ein klarer visueller Rhythmus: **Leo spricht/singt d
 14. Die grauen Bewohner bleiben normale Menschen und keine Monster.
 15. Der Dark Carnival darf visuell groß und bedrohlich werden, ohne die Bandmitglieder zu verdecken.
 16. Alle Bilder in **16:9** und mit einer konsistenten photorealistischen anamorphischen Filmästhetik erzeugen.
+17. **Der Puppenspieler ist ein eigener, konsistenter Gegenspieler.** Gesicht, hellblondes/ashblondes Haar, schwarzer langer Mantel, blasse Haut und schmale Hände müssen in jedem Puppenspieler-Cut identisch bleiben.
+18. Die Marionettenfäden sind extrem dünn und subtil. Sie dürfen nicht wie dicke Seile oder leuchtende Fantasy-Effekte aussehen.
+19. Der Puppenspieler hasst Phoenix Horizon und reagiert besonders auf Leo als Sänger; sein Hass wird kontrolliert, intelligent und körperlich subtil gespielt, nicht cartoonhaft.
+20. Die Puppenspieler-Cuts zeigen eine Entwicklung von **vollständiger Kontrolle zu beginnender Kontrollverlust**.
+21. Die Band bleibt die lebendige Gegenkraft: Ihre Musik erzeugt individuelle Reaktionen bei Bewohnern, während der Puppenspieler Synchronität und Gehorsam erzwingt.
+22. Puppenspieler-Shots dürfen die Band niemals durch einen neuen Hauptcharakter ersetzen. Die Gegenspieler-Ebene bleibt visuell untergeordnet, bis die Kontrolle im letzten Insert brüchig wird.
